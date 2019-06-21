@@ -29,4 +29,4 @@ there were containing meaningless information. Then use null_remove.py code to d
 
 The random forest algorithm was applied to this particular problem solving and as you can see the results are not that bad, you can apply your own algorithm to make your own results.
 
-Check ![Alt text](/pm_2.5_level_prediction.pdf) file for detailed explanations
+Check [a link](https://github.com/Usmankhujaev/P.M-2.5-level-prediction-for-5-Chinese-cities-/edit/master/README.md) file for detailed explanations
