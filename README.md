@@ -1,5 +1,6 @@
 # P.M-2.5-level-prediction-for-5-Chinese-cities-
 This is a system implementation that can predict the PM 2.5  level using previous data of five Chinese cities dataset
+
 How to handle with datasets? Beijing file had 4 PM values while other cities had only 3 incoming PM values 
 In order to make balance in dataset, I manually add one column and make every column name be the same in each file, 
 you can see preprocessing file in the the same named folder
@@ -27,3 +28,5 @@ there were containing meaningless information. Then use null_remove.py code to d
 ![Alt text](/random_forest.png)
 
 The random forest algorithm was applied to this particular problem solving and as you can see the results are not that bad, you can apply your own algorithm to make your own results.
+
+Check pm_2.5_level_prediction.pdf file for detailed explanations
