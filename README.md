@@ -24,3 +24,6 @@ there were containing meaningless information. Then use null_remove.py code to d
  
  
  
+![Alt text](/random_forest.png)
+
+The random forest algorithm was applied to this particular problem solving and as you can see the results are not that bad, you can apply your own algorithm to make your own results.
