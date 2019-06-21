@@ -20,3 +20,7 @@ there were containing meaningless information. Then use null_remove.py code to d
 
 
 ![Alt text](/Figure_1.png)
+ You can see the distribution of the data in terms of PM_US Post values to Humidity, Temperature and Pressure. As we can see there are some big values of US_PM Post which we can be considered as outliers regression.py code removes outliers.
+ 
+ 
+ 
