@@ -19,3 +19,4 @@ The new created file was having this format because I have dropped other PM colu
 there were containing meaningless information. Then use null_remove.py code to drop all NA containing rows.
 
 
+![Alt text](/Figure_1.png)
